@@ -1,7 +1,7 @@
 #This file is created to test whether google generative ai package is is working or not
 import google.generativeai as genai
 
-API_KEY = "AIzaSyCYt_I3Ib-5crAbCdEYzo5fC5OUzz73YxQ"
+API_KEY = ""
 
 genai.configure(api_key=API_KEY)
 
