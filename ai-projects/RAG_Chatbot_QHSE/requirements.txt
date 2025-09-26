@@ -1,1 +1,13 @@
-
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+langchain-openai
+langchain-groq
+langchain-chroma
+pandas
+langchain-text-splitters
+langchain-huggingface
+streamlit
+sentence_transformers
